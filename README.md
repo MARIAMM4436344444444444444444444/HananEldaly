@@ -25,19 +25,21 @@
 
 ### Tools & Version Control  
 <p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
 </p>  
 
 ### Design Tools  
 <p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>  
+<!-- Figma -->
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<!-- Blender -->
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" /> 
 </p>  
   
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 ### [Coursenix – Online Lessons Booking](https://github.com/HananEldaly/Coursenix-FrontEnd)
 Developed a responsive web application for booking online lessons, targeting preparatory and high school students.  
 **Technologies:** HTML, CSS, JavaScript  
@@ -45,9 +47,10 @@ Developed a responsive web application for booking online lessons, targeting pre
 ---
 
 ## 📊 GitHub Stats
-![Hanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HananEldaly&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HananEldaly&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HananEldaly&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
+</p>
+ 
 
 ---
 
